@@ -1,1 +1,6 @@
-rayodin
+# Oyun ilerleme kayıtları
+meta_progression.json
+
+# Diğer çalışma zamanı dosyaları
+*.log
+*.tmp
